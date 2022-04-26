@@ -8,5 +8,6 @@
 </head>
 <body>
     <h1>Log In</h1>
+    <a href="{{ route('home') }}">HOME</a>
 </body>
 </html>
